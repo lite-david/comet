@@ -10,7 +10,7 @@ Catapult HLS
 
 The synthesizable directory contains C++ files which can be compiled to run as an emulator, synthesized for FPGA or ASIC.
 
-Run `make` in the synthesizable folder to generate the emulator `catapult.sim`
-To build it as an FPGA IP, run script.tcl in Vivado HLS 
-To synthesize it to rtl for ASIC, run directives.tcl in Catapult HLS
+Run `make` in the synthesizable folder to generate the emulator `catapult.sim`.
+To build it as an FPGA IP, run `script.tcl` in Vivado HLS.
+To synthesize it to rtl for ASIC, run `directives.tcl` in Catapult HLS.
 
