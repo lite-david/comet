@@ -27,3 +27,7 @@ $ cd testdir
 $ bash testscript.sh
 ```
 The `cache_synthesis_attempt` directory contains an attempt to synthesize the caching mechanism along with the pipelined core. It's currently under progress. 
+
+## Note
+
+This project is no longer maintained. For latest version, head over here - [Comet](https://gitlab.inria.fr/srokicki/Comet)
